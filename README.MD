@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/brenohq/nodejs-shopping-cart.svg?branch=master)](https://travis-ci.org/brenohq/nodejs-shopping-cart)
 
-# NerdStore - Carrinho de Compras - NodeJS/Express
+# GameStore - NodeJS/Express
 
 # Live Demo on Heroku:
 [nodejs-shopping-cart.herokuapp.com](https://nodejs-shopping-cart.herokuapp.com/)
