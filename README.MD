@@ -40,3 +40,8 @@ This will start dev server at http://localhost:3000 with Nodemon.
 NodeJS, Express, MongoDB, Mongoose. 
 ###### Fron-end
 Handlebars and Bootstrap.
+
+##### Payment
+NUMBER              BRAND	    CVC	            DATE
+4242424242424242	Visa	    Any 3 digits	Any future date
+5555555555554444	Mastercard	Any 3 digits	Any future date
