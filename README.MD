@@ -36,11 +36,6 @@ or at port 8080 http://localhost:3000, if env variable is set to 8080
     npm run dev
 ```
 
-### Tests
-``` shell
-    npm test
-```
-
 ### Technologies
 ###### Back-end
 NodeJS, Express, MongoDB, Mongoose. 
