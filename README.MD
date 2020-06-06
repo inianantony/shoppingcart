@@ -3,7 +3,7 @@
 # GameStore - NodeJS/Express
 
 # Live Demo on Heroku:
-[nodejs-shopping-cart.herokuapp.com](https://ai-shopping.herokuapp.com/)
+[ai-shopping.herokuapp.com](https://ai-shopping.herokuapp.com/)
 
 ### Run Locally on Your Machine
 You need Node, NPM and MongoDB properly installed.
