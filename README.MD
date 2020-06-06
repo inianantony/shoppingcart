@@ -30,7 +30,7 @@ With your mongod service running, this will populate shopping database
     node seed/product-seeder.js 
 ```
 This will start dev server at http://localhost:3000 with Nodemon.
-or at port 8080 http://localhost:3000, if env variable is set to 8080
+or at port 8080 http://localhost:8080, if env variable is set to 8080
 
 ``` shell
     npm run dev
