@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/brenohq/nodejs-shopping-cart.svg?branch=master)](https://travis-ci.org/brenohq/nodejs-shopping-cart)
+[![Build Status](https://travis-ci.org/inianantony/shoppingcart.svg?branch=master)](https://travis-ci.org/github/inianantony/shoppingcart)
 
 # GameStore - NodeJS/Express
 
